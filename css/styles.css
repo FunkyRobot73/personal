@@ -1,0 +1,30 @@
+.profile-pic {
+  
+  border: 2 px;
+  width: 10%;
+  max-width: 500px;
+  min-width: 100px;
+
+}
+
+.profile-info {
+  
+  color: blue;
+  font-style: italic;
+  font-family: arial;
+  font-weight: bold;
+  border-style: solid;
+  background-color:lightgrey;
+  width: 50%;
+}
+
+.profile-me {
+  
+  color: green;
+  font-weight: bold;
+  font-family: san serif;
+  font-style: italic;
+  border-style: dashed;
+  width: 50%;
+
+}
