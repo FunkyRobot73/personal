@@ -3,6 +3,9 @@
   color: black;
 }
 
+.welcome {
+  padding-left: 200px;
+}
 
 .container9 {
   display: flex;
@@ -36,6 +39,11 @@
   flex-direction: column;
   justify-content: center;
   justify-content:space-around;
+}
+
+.divider {
+  width: 50%;
+  background-color: #ff6e31;
 }
 
 .profile-pic {
